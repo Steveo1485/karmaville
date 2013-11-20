@@ -1,5 +1,7 @@
 # Welcome to KarmaVille
 
+An exercise on optimizing database performamce
+
 ## Getting Started
 
 KarmaVille uses [PostgreSQL](http://www.postgresql.org/).  Run the following commands to get started:
